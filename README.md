@@ -1,4 +1,4 @@
-# React_Portfolio Steps
+# NextJS_Portfolio Steps
 
 ## 1 / Create Next App ##
 
